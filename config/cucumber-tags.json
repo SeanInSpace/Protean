@@ -1,0 +1,8 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/electrum": "lemon_core:electrum_ingot",
+  "forge:ingots/uranium": "lemon_core:uranium_ingot",
+  "forge:ingots/mithril": "null",
+  "forge:ingots/chrome": "null"
+}rubber_bar"
+}
