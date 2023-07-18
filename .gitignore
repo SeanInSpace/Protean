@@ -4,6 +4,15 @@ saves/*
 *.png
 *.gz
 
+// I don't think this is necessary
+essential/*
+config/*
+.phyics_mod_cache/*
+blueprints/*
+logs/*
+
+
+
 // Advent of Ascension currently disabled until finished
 mods/AoA3-1.20.1-3.6.28.jar.disabled
 
