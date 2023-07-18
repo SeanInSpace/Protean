@@ -354,9 +354,9 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.nbtedit.shortcut:key.keyboard.n
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.3873239436619718
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.6056338028169014
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
