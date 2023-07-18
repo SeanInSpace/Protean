@@ -1,0 +1,7 @@
+config/*
+journeymap/*
+saves/*
+*.mca
+*.png
+*.json
+*.properties
