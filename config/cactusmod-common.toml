@@ -1,6 +1,0 @@
-
-#Compat settings
-[compat]
-	#decides if right-clicking the Cactus Snow Man with a Statues sombrero will create a Cactoni [Default: true]
-	statuesCompat = true
-

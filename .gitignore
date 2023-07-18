@@ -5,3 +5,6 @@ saves/*
 *.png
 *.json
 *.properties
+*.properties
+*.json
+*.gz
