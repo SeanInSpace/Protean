@@ -10,6 +10,9 @@ config/*
 .phyics_mod_cache/*
 blueprints/*
 logs/*
+options.txt
+usercache.json
+minecraftinstance.json
 
 
 
