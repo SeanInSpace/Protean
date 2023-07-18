@@ -1,0 +1,13 @@
+#Whether or not the player disabled the mod for themselves
+mod_disabled = false
+#Whether or not the mod was restricted by an operator
+mod_restricted = false
+#Whether or not the player disabled giant vein mining for themselves
+giant_vein_mining_disabled = false
+#Whether or not giant vein mining was restricted by an operator
+giant_vein_mining_restricted = false
+#Whether or not tunneling was restricted by an operator
+tunneling_restricted = false
+#Whether or not /svmm force was restricted by an operator
+force_restricted = true
+

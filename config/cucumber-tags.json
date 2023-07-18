@@ -1,0 +1,11 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/iridium": "null",
+  "forge:rubber": "better_rubber:rubber_bar",
+  "forge:ingots/invar": "lemon_core:invar_ingot",
+  "forge:gems/ruby": "lemon_core:ruby",
+  "forge:ingots/mithril": "null",
+  "forge:gems/apatite": "lemon_core:apatite",
+  "forge:ingots/chrome": "null"
+}e:lead_ingot"
+}

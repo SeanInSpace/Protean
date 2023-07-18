@@ -1,0 +1,13 @@
+{
+  "enable_door_animation": true,
+  "enable_trap_door_animation": true,
+  "enable_sign_tilt": true,
+  "door_animation_length": 0.3,
+  "trap_door_animation_length": 0.3,
+  "sign_details": {
+    "pitch_tilt": 2.0,
+    "yaw_tilt": 5.0,
+    "roll_tilt": 5.0,
+    "random_tilt": true
+  }
+}
