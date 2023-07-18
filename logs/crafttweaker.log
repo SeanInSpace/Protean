@@ -1,0 +1,17 @@
+[08:18:32.393][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[08:18:32.439][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[08:18:32.553][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[08:18:32.557][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[08:18:32.562][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[08:18:35.274][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[08:18:35.278][INFO][CraftTweaker]: - 'angrymobs' at version '4.0.0'
+[08:18:35.278][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.10'
+[08:18:35.278][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.2a'
+[08:18:35.278][INFO][CraftTweaker]: - 'gamestages' at version '15.0.1'
+[08:18:35.278][INFO][CraftTweaker]: - 'initialinventory' at version '11.0.1'
+[08:18:35.278][INFO][CraftTweaker]: - 'itemstages' at version '8.0.1'
+[08:18:35.278][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.1'
+[08:18:57.031][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[08:18:57.690][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[08:18:57.751][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[08:18:57.897][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
