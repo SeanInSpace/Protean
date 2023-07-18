@@ -5,8 +5,8 @@ saves/*
 *.gz
 
 // I don't think this is necessary
-essential/*
-config/*
+essential/
+config/
 .phyics_mod_cache/*
 blueprints/*
 logs/*
