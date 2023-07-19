@@ -1,40 +1,28 @@
-[12:46:13.325][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[12:46:13.363][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[12:46:13.496][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[12:46:13.499][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[12:46:13.507][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[12:46:16.152][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[12:46:16.156][INFO][CraftTweaker]: - 'angrymobs' at version '4.0.0'
-[12:46:16.156][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.10'
-[12:46:16.156][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.1'
-[12:46:16.156][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.2a'
-[12:46:16.156][INFO][CraftTweaker]: - 'gamestages' at version '15.0.1'
-[12:46:16.156][INFO][CraftTweaker]: - 'initialinventory' at version '11.0.1'
-[12:46:16.156][INFO][CraftTweaker]: - 'itemstages' at version '8.0.1'
-[12:46:16.156][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.1'
-[12:46:38.343][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[12:46:39.502][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[12:46:39.669][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[12:46:39.943][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[12:47:58.019][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[12:47:58.045][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[12:47:58.065][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[12:47:58.076][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[12:48:00.282][INFO][CraftTweaker]: CraftTweaker reload starting!
-[12:48:00.293][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[12:48:00.314][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[12:48:00.758][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[12:48:00.768][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[12:48:00.769][INFO][CraftTweaker]: CraftTweaker reload complete!
-[12:48:17.340][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[12:48:17.340][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[12:48:17.362][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[12:48:17.365][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[12:48:17.374][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[12:48:18.487][INFO][CraftTweaker]: CraftTweaker reload starting!
-[12:48:18.495][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[12:48:18.495][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[12:48:18.517][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[12:48:18.648][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[12:48:18.656][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[12:48:18.656][INFO][CraftTweaker]: CraftTweaker reload complete!
+[12:56:48.224][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[12:56:48.265][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[12:56:48.440][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[12:56:48.443][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[12:56:48.451][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[12:56:51.093][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[12:56:51.096][INFO][CraftTweaker]: - 'angrymobs' at version '4.0.0'
+[12:56:51.096][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.10'
+[12:56:51.096][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.1'
+[12:56:51.096][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.2a'
+[12:56:51.097][INFO][CraftTweaker]: - 'gamestages' at version '15.0.1'
+[12:56:51.097][INFO][CraftTweaker]: - 'initialinventory' at version '11.0.1'
+[12:56:51.097][INFO][CraftTweaker]: - 'itemstages' at version '8.0.1'
+[12:56:51.097][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.1'
+[12:57:13.810][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[12:57:15.058][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[12:57:15.217][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[12:57:15.664][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[14:03:40.978][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[14:03:41.009][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:03:41.028][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[14:03:41.038][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[14:03:51.971][INFO][CraftTweaker]: CraftTweaker reload starting!
+[14:03:51.982][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[14:03:52.006][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:03:52.473][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[14:03:52.492][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[14:03:52.494][INFO][CraftTweaker]: CraftTweaker reload complete!
