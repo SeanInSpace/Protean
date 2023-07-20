@@ -1,13 +1,13 @@
-[14:24:32] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[14:24:32] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[14:24:32] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[14:24:32] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[14:24:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
-[14:24:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[14:24:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: me.frankv.jmi.JMIJourneyMapPlugin
-[14:24:32] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[14:24:32] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[14:24:32] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.11, built with forge 1.20.1-47.0.18
+[04:07:36] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[04:07:36] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[04:07:36] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[04:07:36] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[04:07:36] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[04:07:36] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[04:07:36] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: me.frankv.jmi.JMIJourneyMapPlugin
+[04:07:36] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[04:07:36] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[04:07:37] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.11, built with forge 1.20.1-47.0.18
 forge: 47.1.33
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -25,33 +25,26 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.11, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.11, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.11, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[14:24:33] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 400.6ms
-[14:25:20] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[14:25:21] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[14:25:21] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 329.13ms
-[14:28:18] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[14:31:18] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[14:31:18] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[14:31:18] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[14:31:18] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[14:31:18] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\sp\New World\waypoints
-[14:31:18] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\sp\New World\overworld. Memory: 12000MB total, 1540MB free 
-[14:32:28] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/gift_starby.png
-[14:32:28] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
-[14:32:36] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/wilden_stalker.png
-[14:33:19] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/fly.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/atlantic_herring.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_red.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_blue.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/tuna.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/red_grouper.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/perch.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/smallmouth_bass.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/bluegill.png
-[14:33:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/jellyfish.png
-[14:33:46] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/atlantic_halibut.png
-[14:33:56] [Render thread/WARN] [JMLogger] Can't get entityTexture for awakened_evil:textures/entity_icon/red_imp.png
-[14:34:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/flying_fish_2.png
-[14:35:08] [Render thread/WARN] [JMLogger] awakened_evil:textures/item/water_flow0.png doesn't have /entity/ in path, so can't look for /entity_icon/
-[14:35:19] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\mp\offline\minecraft:overworld
-[14:35:42] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[04:07:37] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 519.89ms
+[04:08:22] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[04:08:22] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[04:08:22] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 338.55ms
+[04:10:46] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[04:13:54] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[04:13:54] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[04:13:54] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[04:13:54] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[04:13:55] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\sp\New Adventure\waypoints
+[04:13:55] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\sp\New Adventure\overworld. Memory: 12000MB total, 1155MB free 
+[04:14:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/gift_starby.png
+[04:14:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[04:14:19] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[04:14:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/fly.png
+[04:15:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/carp.png
+[04:15:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/perch.png
+[04:15:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for awakened_evil:textures/entity_icon/manticore.png
+[04:15:09] [Render thread/WARN] [JMLogger] bloodandmadness:textures/entities/beast/beast_patient.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[04:15:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for awakened_evil:textures/entity_icon/lava_flow0.png
+[04:15:13] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\dylan\curseforge\minecraft\Instances\Protean\journeymap\data\mp\offline\minecraft:overworld
+[04:15:13] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@60dd83e4
+[04:15:45] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
