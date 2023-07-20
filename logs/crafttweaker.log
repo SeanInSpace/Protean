@@ -1,40 +1,52 @@
-[10:06:43.534][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[10:06:43.571][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[10:06:43.691][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[10:06:43.695][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[10:06:43.704][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[10:06:46.540][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[10:06:46.543][INFO][CraftTweaker]: - 'angrymobs' at version '4.0.0'
-[10:06:46.543][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.10'
-[10:06:46.543][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.1'
-[10:06:46.544][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.2a'
-[10:06:46.544][INFO][CraftTweaker]: - 'gamestages' at version '15.0.1'
-[10:06:46.544][INFO][CraftTweaker]: - 'initialinventory' at version '11.0.1'
-[10:06:46.544][INFO][CraftTweaker]: - 'itemstages' at version '8.0.1'
-[10:06:46.544][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.1'
-[10:07:09.139][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[10:07:10.518][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[10:07:10.703][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[10:07:10.922][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[10:08:50.211][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[10:08:50.253][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[10:08:50.274][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[10:08:50.288][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[10:08:52.887][INFO][CraftTweaker]: CraftTweaker reload starting!
-[10:08:52.896][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[10:08:52.921][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[10:08:53.373][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[10:08:53.383][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[10:08:53.386][INFO][CraftTweaker]: CraftTweaker reload complete!
-[10:09:07.327][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[10:09:07.327][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[10:09:07.351][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[10:09:07.355][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[10:09:07.364][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[10:09:08.791][INFO][CraftTweaker]: CraftTweaker reload starting!
-[10:09:08.800][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[10:09:08.800][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[10:09:08.821][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[10:09:08.970][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[10:09:08.981][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[10:09:08.981][INFO][CraftTweaker]: CraftTweaker reload complete!
+[04:06:53.836][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[04:06:53.900][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[04:06:54.018][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[04:06:54.021][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[04:06:54.030][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[04:06:56.912][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[04:06:56.917][INFO][CraftTweaker]: - 'angrymobs' at version '4.0.0'
+[04:06:56.917][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.10'
+[04:06:56.917][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.1'
+[04:06:56.917][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.2a'
+[04:06:56.917][INFO][CraftTweaker]: - 'gamestages' at version '15.0.1'
+[04:06:56.917][INFO][CraftTweaker]: - 'initialinventory' at version '11.0.1'
+[04:06:56.917][INFO][CraftTweaker]: - 'itemstages' at version '8.0.1'
+[04:06:56.917][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.1'
+[04:07:31.486][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[04:07:33.271][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[04:07:33.454][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[04:07:33.903][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[04:09:36.324][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[04:09:36.357][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[04:09:36.376][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[04:09:36.386][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[04:09:47.099][INFO][CraftTweaker]: CraftTweaker reload starting!
+[04:09:47.111][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[04:09:47.139][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[04:09:47.608][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[04:09:47.608][INFO][CraftTweaker-ZenCode]: Loading file 'XenoLoaf.zs' with priority 0
+[04:09:47.633][WARN][CraftTweaker]: XenoLoaf.zs:3:0: Invalid recipe name 'diamondPick', mistakes:
+- it must be all lowercase
+New recipe name: diamondpick
+[04:09:47.642][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:diamondpick' that outputs: '<item:minecraft:diamond_pickaxe>'
+[04:09:47.642][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[04:09:47.644][INFO][CraftTweaker]: CraftTweaker reload complete!
+[04:09:47.645][INFO][CraftTweaker]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[04:10:10.804][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[04:10:10.804][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[04:10:10.825][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[04:10:10.829][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[04:10:10.837][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[04:10:20.109][INFO][CraftTweaker]: CraftTweaker reload starting!
+[04:10:20.116][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[04:10:20.116][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[04:10:20.134][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[04:10:20.267][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[04:10:20.267][INFO][CraftTweaker-ZenCode]: Loading file 'XenoLoaf.zs' with priority 0
+[04:10:20.281][WARN][CraftTweaker]: XenoLoaf.zs:3:0: Invalid recipe name 'diamondPick', mistakes:
+- it must be all lowercase
+New recipe name: diamondpick
+[04:10:20.282][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:diamondpick' that outputs: '<item:minecraft:diamond_pickaxe>'
+[04:10:20.282][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[04:10:20.282][INFO][CraftTweaker]: CraftTweaker reload complete!
+[04:10:20.282][INFO][CraftTweaker]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
